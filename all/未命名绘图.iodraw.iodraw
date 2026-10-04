@@ -19,8 +19,8 @@
         <mxCell id="903sq0s0ZODYZLD5ZNiC-7" value="引出学的新技术和知识点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="860" y="515" width="285" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-8" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="610" y="610" width="120" height="60" as="geometry" />
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-8" value="学习新技术或者知识点的基本原理和基本语法（不要考虑细节）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="880" y="690" width="300" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
