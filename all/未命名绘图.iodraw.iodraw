@@ -13,7 +13,7 @@
         <mxCell id="903sq0s0ZODYZLD5ZNiC-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;需求&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;1.工作需要&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;2.跳槽&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;3.技术控&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=24;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-50" y="500" width="290" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=classic;fillColor=#fff2cc;" edge="1" parent="1" source="903sq0s0ZODYZLD5ZNiC-5">
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=classic;fillColor=#fff2cc;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="903sq0s0ZODYZLD5ZNiC-5" target="903sq0s0ZODYZLD5ZNiC-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="840" y="547.5" as="targetPoint" />
           </mxGeometry>
@@ -34,7 +34,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-8" value="学习新技术或者知识点的基本原理和基本语法（不要考虑细节）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#fff2cc;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="845" y="700" width="325" height="130" as="geometry" />
+          <mxGeometry x="950" y="760" width="325" height="130" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-18" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=classic;fillColor=#fff2cc;" edge="1" parent="1" source="903sq0s0ZODYZLD5ZNiC-9" target="903sq0s0ZODYZLD5ZNiC-10">
           <mxGeometry relative="1" as="geometry" />
