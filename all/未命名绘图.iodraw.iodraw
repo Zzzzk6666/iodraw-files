@@ -22,6 +22,11 @@
         <mxCell id="903sq0s0ZODYZLD5ZNiC-6" value="如何快速学习技术或者知识点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#dae8fc;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="210" y="320" width="660" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;" edge="1" parent="1" source="903sq0s0ZODYZLD5ZNiC-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-7" value="引出学的新技术和知识点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="845" y="490" width="325" height="110" as="geometry" />
         </mxCell>
