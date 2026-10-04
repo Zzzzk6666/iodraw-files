@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Drdf1OuvSzoRXlBa7G6q">
-    <mxGraphModel dx="2550" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2610" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,9 +53,6 @@
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-22" value="java" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-200" y="-150" width="370" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-23" value="快速入门（基本程序，crud）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="590" y="-50" width="350" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
