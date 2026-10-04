@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 Edg/154.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="Drdf1OuvSzoRXlBa7G6q">
-    <mxGraphModel dx="4765" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3938" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,9 +82,9 @@
           <mxGeometry x="1350" y="-230" width="400" height="140" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-30" value="Java是跨平台性的" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="-1040" y="-590" width="380" height="180" as="geometry" />
+          <mxGeometry x="170" y="-940" width="380" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-34" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-34" value="运行" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="940" y="-560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
