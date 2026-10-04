@@ -51,8 +51,11 @@
         <mxCell id="903sq0s0ZODYZLD5ZNiC-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFD966;strokeWidth=4;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=default;endArrow=classic;fillColor=#fff2cc;" edge="1" parent="1" source="903sq0s0ZODYZLD5ZNiC-10" target="903sq0s0ZODYZLD5ZNiC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-22" value="java" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-22" value="java" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="-200" y="-150" width="370" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-23" value="快速入门（基本程序，crud）" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#9673a6;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-50" width="350" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
