@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Hello.java&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="40" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;fillColor=#fff2cc;strokeColor=#FFD966;strokeWidth=4;" edge="1" parent="1" source="903sq0s0ZODYZLD5ZNiC-2" target="903sq0s0ZODYZLD5ZNiC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
