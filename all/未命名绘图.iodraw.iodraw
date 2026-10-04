@@ -13,8 +13,8 @@
         <mxCell id="903sq0s0ZODYZLD5ZNiC-5" value="看看能不能用传统技术解决&lt;div&gt;1.能解决，但是不完美&lt;/div&gt;&lt;div&gt;2.解决不了&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="450" y="505" width="310" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-6" value="如何快速学习技术或者知识点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="440" y="320" width="320" height="100" as="geometry" />
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-6" value="如何快速学习技术或者知识点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="660" height="130" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-7" value="引出学的新技术和知识点" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#82b366;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="845" y="515" width="295" height="85" as="geometry" />
