@@ -55,19 +55,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-22" value="Hello.java" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;labelBackgroundColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="-150" width="370" height="140" as="geometry" />
+          <mxGeometry x="-200" y="-120" width="370" height="140" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-24" value="Hello.class" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#b85450;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;labelBackgroundColor=none;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-140" width="420" height="120" as="geometry" />
+          <mxGeometry x="540" y="-110" width="420" height="120" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-26" value="编译" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontStyle=1;labelBackgroundColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-140" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="-110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="903sq0s0ZODYZLD5ZNiC-27" value="Windows" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="1300" y="-300" width="420" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="903sq0s0ZODYZLD5ZNiC-28" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="-60" width="400" height="160" as="geometry" />
+        <mxCell id="903sq0s0ZODYZLD5ZNiC-28" value="Linux" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;fontStyle=1;labelBackgroundColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="-30" width="400" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
